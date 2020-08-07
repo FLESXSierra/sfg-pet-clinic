@@ -35,6 +35,10 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<scm>
+		<developerConnection>scm:git:https://github.com/FLESXSierra/sfg-pet-clinic.git</developerConnection>
+	</scm>
 
 	<modules>
 		<module>pet-clinic-data</module>
