@@ -36,8 +36,7 @@
 	</build>
 	
 	<scm>
-		<developerConnection>scm:git:https://github.com/FLESXSierra/sfg-pet-clinic.git</developerConnection>
-	  <tag>sfg-pet-clinic-0.0.1</tag>
+		<developerConnection>scm:git:git@github.com:FLESXSierra/sfg-pet-clinic.git</developerConnection>
   </scm>
 
 	<modules>
